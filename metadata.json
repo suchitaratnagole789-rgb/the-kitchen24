@@ -1,0 +1,6 @@
+{
+  "name": "The Kitchen24 By FIT BISTRO",
+  "description": "The Kitchen24 By FIT BISTRO at Super Town House Hotel, Gachibowli, Hyderabad. Multi-cuisine restaurant, 24 bookable rooms, and 30-member banquet hall.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
